@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvue_shopping"]=self["webpackChunkvue_shopping"]||[]).push([[834],{3834:function(n,e,u){u.r(e),u.d(e,{default:function(){return c}});var r=function(){var n=this,e=n._self._c;return e("div",[n._v("这是order组件路由")])},l=[],s={name:"OrderIndex"},t=s,i=u(1001),p=(0,i.Z)(t,r,l,!1,null,null,null),c=p.exports}}]);
+//# sourceMappingURL=834.ff009e64.js.map
