@@ -1,0 +1,28 @@
+//重置默认样式
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+//文字溢出省略号
+.text-ellipsis-2 {
+    /* 隐藏溢出内容 */
+    overflow: hidden;
+    /* 设置行数 */
+    -webkit-line-clamp: 2px;
+    /* 设置溢出内容为省略号 */
+    text-overflow: ellipsis;
+    /* 设置不换行 */
+    white-space: nowrap;
+    /* 设置为块级元素 */
+    display: -webkit-box;
+    /* 设置块级元素的排列方式 */
+    -webkit-box-orient: vertical;
+}
+
+.van-nav-bar {
+    .van-nav-bar__arrow {
+        color: orange;
+    }
+}
